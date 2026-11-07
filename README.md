@@ -73,3 +73,70 @@ This exercise reinforced the importance of evidence-based control monitoring and
 This is a fictional, educational portfolio project. No real company systems, personal data, or compliance evidence are used.
 
 This project does not represent hands-on experience with Vanta or professional audit work.
+
+## Results and Findings Summary
+
+### Assessment Overview
+
+This sample GRC compliance assessment evaluated five security controls across access control, vulnerability management, incident response, and security awareness.
+
+The assessment identified three controls passing, one failing, and one pending further completion or verification.
+
+### Control Assessment Results
+
+| Status | Number of Controls |
+|---|---:|
+| Pass | 3 |
+| Fail | 1 |
+| Pending | 1 |
+| **Total** | **5** |
+
+### Key Findings
+
+**Finding F-001 — High Risk**
+
+- Related Control: VM-01
+- Issue: A critical vulnerability remains unpatched.
+- Recommended Action: Apply the required security patch and perform a follow-up vulnerability scan.
+- Assigned Owner: IT Security Team
+- Status: Open
+- Target Completion: November 20, 2026
+
+**Finding F-002 — Medium Risk**
+
+- Related Control: IR-01
+- Issue: An incident response tabletop exercise has not been completed.
+- Recommended Action: Schedule and conduct the exercise and retain completion documentation.
+- Assigned Owner: GRC Analyst
+- Status: In Progress
+- Target Completion: December 1, 2026
+
+### Evidence Review Results
+
+Five evidence records were documented:
+
+- Three records reviewed.
+- One record requiring follow-up.
+- One record pending completion.
+
+Evidence was linked to its corresponding control to support traceability and control assessment.
+
+### Overall Assessment
+
+The assessment identified opportunities to improve vulnerability management and incident response preparedness.
+
+The highest-priority issue is the unresolved critical vulnerability associated with VM-01.
+
+Recommended next steps include:
+
+1. Prioritize remediation of the critical vulnerability.
+2. Verify remediation through a follow-up vulnerability scan.
+3. Complete the incident response tabletop exercise.
+4. Collect and review supporting evidence.
+5. Update control and remediation statuses following verification.
+
+### Assessment Limitations
+
+This project uses fictional sample data to demonstrate GRC documentation, control assessment, evidence tracking, risk identification, and remediation management.
+
+It does not represent an actual organizational audit, independent security assessment, or certification.
