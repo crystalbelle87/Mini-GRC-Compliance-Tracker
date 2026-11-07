@@ -1,0 +1,3 @@
+Finding ID,Related Control ID,Finding Description,Risk Level,Recommended Corrective Action,Assigned Owner,Status,Target Completion Date,Verification Evidence
+F-001,VM-01,Critical vulnerability remains unpatched,High,Apply security patch and perform a follow-up vulnerability scan,IT Security Team,Open,2026-11-20,Pending verification
+F-002,IR-01,Incident response tabletop exercise has not been completed,Medium,Schedule and conduct an incident response tabletop exercise,GRC Analyst,In Progress,2026-12-01,Pending exercise documentation
