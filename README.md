@@ -20,6 +20,14 @@ This is an educational exercise, not an official audit, certification, or assess
 - Remediation Log: Records sample findings, risks, corrective actions, and status.
 - Evidence Register: Documents supporting evidence, collection dates, review status, and reviewer notes.
 
+ ## Project Workflow
+
+1. Identify and document security controls in the Control Register.
+2. Record supporting evidence in the Evidence Register.
+3. Identify control gaps and document findings in the Remediation Log.
+4. Assign corrective actions and monitor remediation progress.
+5. Review supporting evidence to determine whether findings can be closed.
+
 ## Skills Demonstrated
 
 - Security control monitoring
