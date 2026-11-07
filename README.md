@@ -18,6 +18,7 @@ This is an educational exercise, not an official audit, certification, or assess
 
 - Control Register: Tracks control IDs, requirements, status, and evidence.
 - Remediation Log: Records sample findings, risks, corrective actions, and status.
+- Evidence Register: Documents supporting evidence, collection dates, review status, and reviewer notes.
 
 ## Skills Demonstrated
 
