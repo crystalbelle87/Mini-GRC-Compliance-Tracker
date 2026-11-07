@@ -72,7 +72,7 @@ This exercise reinforced the importance of evidence-based control monitoring and
 
 This is a fictional, educational portfolio project. No real company systems, personal data, or compliance evidence are used.
 
-This project does not represent hands-on experience with Vanta or professional audit work.
+This project does not demonstrate hands-on experience with commercial GRC platforms such as Vanta, nor does it represent professional audit experience.
 
 ## Results and Findings Summary
 
