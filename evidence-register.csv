@@ -1,0 +1,6 @@
+Evidence ID,Related Control ID,Evidence Description,Evidence Type,Collection Date,Review Status,Reviewer Notes
+E-001,AC-01,Sample MFA configuration review,Configuration Record,2026-11-06,Reviewed,Sample evidence supports MFA implementation
+E-002,AC-02,Sample quarterly user access review,Access Review Record,2026-11-06,Reviewed,Sample evidence indicates access review was completed
+E-003,VM-01,Sample vulnerability scan report,Vulnerability Scan,2026-11-06,Needs Follow-up,Critical vulnerability remains unpatched
+E-004,IR-01,Incident response tabletop exercise documentation,Exercise Record,2026-11-06,Pending,Exercise has not yet been completed
+E-005,TR-01,Sample security awareness training completion report,Training Record,2026-11-06,Reviewed,Sample evidence indicates training completion
