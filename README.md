@@ -42,6 +42,32 @@ This is an educational exercise, not an official audit, certification, or assess
 - GitHub
 - Spreadsheet/CSV files
 
+  ## Project Results
+
+The simulated compliance review included five security controls across access control, vulnerability management, incident response, and security awareness.
+
+Key results:
+
+- Documented five sample security controls and their operating status.
+- Identified two findings requiring corrective action.
+- Assigned risk levels, responsible owners, and target completion dates.
+- Created five supporting evidence records linked to their respective controls.
+- Identified outstanding remediation and evidence review activities.
+- Cross-checked the control register, remediation log, and evidence register for consistency.
+
+## Lessons Learned
+
+Through this project, I practiced:
+
+- Documenting security controls and monitoring their status.
+- Connecting control requirements to supporting evidence.
+- Identifying gaps and documenting associated risks.
+- Tracking corrective actions and remediation progress.
+- Reviewing evidence and identifying outstanding verification requirements.
+- Maintaining consistency and traceability across GRC documentation.
+
+This exercise reinforced the importance of evidence-based control monitoring and ongoing remediation tracking.
+
 ## Important Note
 
 This is a fictional, educational portfolio project. No real company systems, personal data, or compliance evidence are used.
