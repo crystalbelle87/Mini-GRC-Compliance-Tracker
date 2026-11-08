@@ -42,18 +42,19 @@ This is an educational exercise, not an official audit, certification, or assess
 - GitHub
 - Spreadsheet/CSV files
 
-  ## Project Results
+## Project Results
 
-The simulated compliance review included five security controls across access control, vulnerability management, incident response, and security awareness.
+The simulated GRC assessment documented five security controls across access control, vulnerability management, incident response, and security awareness.
 
-Key results:
+Key outcomes:
 
-- Documented five sample security controls and their operating status.
-- Identified two findings requiring corrective action.
-- Assigned risk levels, responsible owners, and target completion dates.
-- Created five supporting evidence records linked to their respective controls.
-- Identified outstanding remediation and evidence review activities.
-- Cross-checked the control register, remediation log, and evidence register for consistency.
+- Three controls passed, one failed, and one remained pending.
+- Two findings were documented and assigned corrective actions.
+- Five evidence records were created and linked to supporting controls.
+- Control status, evidence review, and remediation activities were documented.
+- Outstanding issues were identified for continued monitoring and follow-up.
+
+The project demonstrates foundational GRC documentation, control monitoring, evidence traceability, and remediation tracking.
 
 ## Lessons Learned
 
