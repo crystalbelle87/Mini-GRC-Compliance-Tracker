@@ -1,6 +1,6 @@
 Control ID,Control Area,Control Description,Status,Evidence,Review Frequency,Notes
-AC-01,Access Control,Multi-factor authentication is enabled for user accounts,Pass,Sample MFA configuration review,Quarterly,No exceptions identified
-AC-02,Access Control,User access permissions are reviewed quarterly,Pass,Sample quarterly access review record,Quarterly,Review completed
-VM-01,Vulnerability Management,Critical vulnerabilities are identified and remediated within the required timeframe,Fail,Sample vulnerability scan report,Monthly,Critical vulnerability remains unpatched
-IR-01,Incident Response,Incident response procedures are tested through a tabletop exercise,Pending,No completed exercise record,Annually,Tabletop exercise needs to be scheduled
-TR-01,Security Awareness,Employees complete required security awareness training,Pass,Sample training completion report,Annually,Training completion verified
+AC-01,Access Control,Multi-factor authentication is enabled for user accounts,Pass,E-001,Quarterly,No exceptions identified
+AC-02,Access Control,User access permissions are reviewed quarterly,Pass,E-002,Quarterly,Review completed
+VM-01,Vulnerability Management,Critical vulnerabilities are identified and remediated within the required timeframe,Fail,E-003,Monthly,Critical vulnerability remains unpatched
+IR-01,Incident Response,Incident response procedures are tested through a tabletop exercise,Pending,E-004,Annually,Tabletop exercise needs to be scheduled
+TR-01,Security Awareness,Employees complete required security awareness training,Pass,E-005,Annually,Training completion verified
